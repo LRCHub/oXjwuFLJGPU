@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "base_track": "青春\"サブリミナル\" (=LOVE ～齊藤なぎさ卒業コンサート～　現役アイドルちゅ～ みんなのこと大好きだよ)",
+  "base_track": "Be Selfish",
   "base_artist": "=LOVE",
-  "createdAt": "2025-12-30T11:43:10.210635Z",
+  "createdAt": "2026-01-01T05:13:12.653940Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "青春\"サブリミナル\"",
+      "title": "Be Selfish",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/01_青春_サブリミナル_=LOVE.lrc"
+      "path": "select/01_Be_Selfish_=LOVE.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "青春\"サブリミナル\"",
+      "title": "Be Selfish (instrumental)",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/02_青春_サブリミナル_=LOVE.lrc"
+      "path": "select/02_Be_Selfish_(instrumental)_=LOVE.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "青春\"サブリミナル\"",
+      "title": "Be Selfish",
       "artist": "=LOVE",
       "has_synced": false,
-      "path": "select/pl_01_青春_サブリミナル_=LOVE.txt"
+      "path": "select/pl_01_Be_Selfish_=LOVE.txt"
     }
   ]
 }
