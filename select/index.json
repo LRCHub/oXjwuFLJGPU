@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Be Selfish",
   "base_artist": "=LOVE",
-  "createdAt": "2026-01-04T15:03:55.557041Z",
+  "createdAt": "2026-04-05T13:48:14.222508Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,24 @@
       "artist": "=LOVE",
       "has_synced": false,
       "path": "select/pl_01_Be_Selfish_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Be Selfish",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_Be_Selfish_=LOVE.lrc",
+      "repo_name": "vmd-luidsqo"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Be Selfish",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_02_Be_Selfish_=LOVE.lrc",
+      "repo_name": "suf7S4AKdmY"
     }
   ]
 }
